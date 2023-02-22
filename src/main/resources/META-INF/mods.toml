@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "[0,999]"
+license = "CC0"
+
+[[mods]]
+modId = "examplemod"
+version = "${version}"
+displayName = "Example Mod"
+authors = "Me!"
+description = '''
+A multi-version example mod
+'''
+logoFile = "examplemod.icon.png"

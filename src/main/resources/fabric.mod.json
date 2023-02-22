@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "examplemod",
+  "name": "ExampleMod",
+  "icon": "assets/examplemod/examplemod.icon.png",
+  "version": "${version}",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.author.examplemod.impl.ExampleMod"
+    ]
+  },
+  "mixins": [
+    "mixins.examplemod.json"
+  ],
+  "authors": [
+    "Me!"
+  ],
+  "depends": {
+    "fabricloader": "*"
+  },
+  "description": "A multi-version example mod",
+  "license": "CC0-1"
+}

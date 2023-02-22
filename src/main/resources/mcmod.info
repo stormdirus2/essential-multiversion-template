@@ -1,0 +1,8 @@
+[{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "A multi-version example mod",
+  "version": "${version}",
+  "logoFile": "examplemod.icon.png",
+  "authorList": ["Me!"]
+}]
